@@ -1,16 +1,28 @@
-## Hi there 👋
+👋 Olá, eu sou o Gabriel! 🚀
 
-<!--
-**gabiflores0508/gabiflores0508** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Apaixonado por tecnologia e desenvolvimento web! 💻 Atualmente, curso Ciência da Computação na UCS e trabalho como Tester na Ludfor Energia, onde busco sempre aprimorar minhas habilidades em codificação e testes de software.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Tecnologias que domino:
+
+🔹 Linguagens: Python, JavaScript, HTML, CSS
+🔹 Back-end: Flask, APIs REST
+🔹 Front-end: HTML5, CSS3, JavaScript
+🔹 Testes: Automação de testes, qualidade de software
+
+
+📈 Projetos em destaque:
+
+🏆 Gerador de Nicknames Personalizados → Um projeto completo de geração de apelidos criativos e personalizáveis!
+📊 Testes automatizados para sistemas de energia
+🎯 Sempre em busca de novos desafios e aprendizados!
+
+
+📫 Conecte-se comigo:
+
+[LinkedIn](https://www.linkedin.com/in/gabriel-fracalossi-fl%C3%B4res-98aa8233b/recent-activity/all/) | [Instagram](https://www.instagram.com/gabifflores_/) | [Facebook](https://www.facebook.com/profile.php?id=100006619124739&locale=pt_BR) | [E-mail](gfracalossi2018@gmail.com) | [Contato](54992538142)
+
+
+
+
+⭐ Se curtiu meus projetos, não esqueça de deixar uma estrela! ⭐
