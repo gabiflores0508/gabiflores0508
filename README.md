@@ -29,8 +29,7 @@ Profissional de tecnologia e desenvolvimento de software!
 
 📱 Contatos:
 
-E-mail: gfracalossi2018@gmail.com
-Celular: (54) 99253-8142
+E-mail: gfracalossi2018@gmail.com | Celular: (54) 99253-8142
 
 
 
