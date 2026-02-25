@@ -14,10 +14,6 @@ Profissional de tecnologia e desenvolvimento de software!
 🔹 Testes: Automação de testes, qualidade de software
 
 
-📈 Projetos em destaque:
-
-🏆 Gerador de Nicknames Personalizados → Um projeto completo de geração de apelidos criativos e personalizáveis!
-
 📊 Testes automatizados para sistemas de energia
 
 🎯 Sempre em busca de novos desafios e aprendizados!
