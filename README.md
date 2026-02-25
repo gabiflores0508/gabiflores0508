@@ -3,7 +3,7 @@
 Profissional de tecnologia e desenvolvimento de software! 
 
 
-💻 Atualmente, curso Ciência da Computação na UCS e trabalho como Tester na Ludfor Energia, onde busco sempre aprimorar minhas habilidades em codificação e testes de software.
+💻 Atualmente, curso Ciência da Computação e trabalho como Tester na Ludfor Energia, onde busco sempre aprimorar minhas habilidades em codificação e testes de software.
 
 
 🛠️ Tecnologias que domino:
